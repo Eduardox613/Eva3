@@ -1,3 +1,7 @@
+Integrantes: Eduardo Molina, Diego Martínez
+Docente: Matias Arriola
+Sección: 001D
+
 1. Descripción de la técnica utilizada y justificación de su elección
 La técnica empleada en el notebook es K-Means Clustering, un algoritmo de aprendizaje no supervisado que permite agrupar observaciones según su similitud.
 K-Means funciona particionando los datos en k grupos, minimizando la distancia intra-cluster y maximizando la separación entre clusters.
